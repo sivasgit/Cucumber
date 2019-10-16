@@ -37,4 +37,5 @@ Feature: OrangeHRM Login
       | username | password |
       | admin    | admin123 |
       | admin123 | admin    |
+      | Admin    | admin    |
 
